@@ -13,3 +13,9 @@ appraise 'rails5_1' do
   gem 'rails', '~> 5.1.3'
   gem 'globalize', '~> 5.1.0.beta2'
 end
+
+appraise 'rails6_0' do
+  gem 'devise', '~> 4.7.2'
+  gem 'rails', '~> 6.0.3.2'
+  gem 'globalize', '~> 5.3.0'
+end
