@@ -15,3 +15,4 @@ gemfile:
   - gemfiles/rails5_0.gemfile
   - gemfiles/rails5_1.gemfile
   - gemfiles/rails6_1.gemfile
+  - gemfiles/rails7_0.gemfile

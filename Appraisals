@@ -19,3 +19,9 @@ appraise 'rails6_1' do
   gem 'rails', '~> 6.1.1'
   gem 'globalize', '~> 6.0.0'
 end
+
+appraise 'rails7_0' do
+  gem 'devise', '~> 4.8.1'
+  gem 'rails', '~> 7.0.2'
+  gem 'globalize', '~> 6.2.1'
+end
